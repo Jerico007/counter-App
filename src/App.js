@@ -16,8 +16,8 @@ const App = ()=>{
         <div className="App">
            {/* <StateBasics/> */}
            {/* <IncreamentDecreament/> */}
-           {/* <PrintMessage/> */}
-           <PrintMedalsObject/>
+           <PrintMessage/>
+           {/* <PrintMedalsObject/> */}
         </div>
     );
 }
